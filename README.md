@@ -4,7 +4,7 @@
 1. 将squishqtpre.dll放在C:\fuzz\code目录下
 2. 运行以下命令
 ```
-  C:\fuzz\code\InfectPE-master\Release\InfectPE.exe Z:\fuzz\auts\yzf\spinboxes\release\spinboxes.exe Z:\fuzz\auts\yzf\spinboxes\release\spinboxes_injected.exe new
+  C:\fuzz\code\InfectPE-master\Release\InfectPE.exe Z:\fuzz\auts\spinboxes\release\spinboxes.exe Z:\fuzz\auts\spinboxes\release\spinboxes_injected.exe new
   ```
 
 ## 运行说明：
